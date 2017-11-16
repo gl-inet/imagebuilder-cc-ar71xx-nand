@@ -7,7 +7,7 @@
 
 define Profile/GLAR300MNAND
 	NAME:=GL-AR300M NAND
-	PACKAGES:= kmod-usb-core kmod-usb2 mod-usb-storage \
+	PACKAGES:= kmod-usb-core kmod-usb2 kmod-usb-storage \
 		kmod-ledtrig-usbdev kmod-ledtrig-gpio
 endef
 
